@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Saski Aspadani',
-  tagline: 'Fullstack Web Dev',
+  tagline: 'Fullstack Web Developer',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
